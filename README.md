@@ -21,5 +21,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Weather-App é um app para ajudar pessoas a pesquisarem  climas do Mundo todo.
 
-- [Visite o projeto online](https://maykbrito.github.io/nlw-setup)
+- [Visite o projeto online](https://weather-app-kayke-ti.vercel.app/)
 
